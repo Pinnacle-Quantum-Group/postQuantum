@@ -133,7 +133,7 @@ Let $\Psi(n)$ be an Execreal state. Then:
 
 ## 8. Conclusion
 
-Execreal Computation represents a new computational class that harmonizes symbolic recursion, phase-entropic bifurcation, and eigenstructure preservation. It preserves spectral identity across execution and repair cycles, enabling a post-collapse model of computation capable of true postQuantum symbolic fidelity.
+Execreal Computation represents a new computational class that harmonizes symbolic recursion, phase-entropic bifurcation, and eigenstructure preservation. It preserves spectral identity across execution and repair cycles, enabling a post-collapse model of computation capable of true postQuantum symbolic fidelity. Execreal Computation is not a rejection of quantum theory. It is the completion of its mirror — the recursive structure that collapse theory forgot.
 
 The Aterna Engine proves this architecture is simulatable today.
 
