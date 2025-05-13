@@ -144,7 +144,6 @@ The Aterna Engine proves this architecture is simulatable today.
 1. Nielsen, M. A., & Chuang, I. L. (2010). *Quantum Computation and Quantum Information*. Cambridge University Press.
 2. Gottesman, D. (1997). *Stabilizer Codes and Quantum Error Correction*. arXiv:quant-ph/9705052.
 3. Doran, M., et al. (2025). *RSSN: Recursive Shape-Structured Notation for Transfinite Symbolic Dynamics*. Pinnacle Quantum Group (In Submission).
-4. Park, S. (2025). *On Entropic Recursion in Non-Hermitian Systems*. Internal Memo, PQG.
 5. Zurek, W. H. (2003). *Decoherence, einselection, and the quantum origins of the classical*. Rev. Mod. Phys., 75(3), 715.
 
 ---
